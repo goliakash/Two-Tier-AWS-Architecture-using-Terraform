@@ -1,0 +1,15 @@
+two-tier-terraform/
+├── modules/
+│   ├── vpc/
+│   ├── ec2/
+│   ├── alb/
+│   ├── rds/
+│   └── security/
+├── env/
+│   └── dev/
+│       ├── main.tf
+│       ├── variables.tf
+│       ├── outputs.tf
+│       └── terraform.tfvars
+├── provider.tf
+└── README.md
