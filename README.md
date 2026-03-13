@@ -85,9 +85,9 @@ Through this project I gained practical experience in:
 Terraform was used to manage the full lifecycle of infrastructure.
 
 ## Provision Infrastructure
-terraform init
-terraform plan
-terraform apply
+ -terraform init
+ -terraform plan
+ -terraform apply
 
 ## Destroy Infrastructure
 
@@ -117,4 +117,5 @@ Cloud & DevOps Enthusiast
 # License
 
 This project is open source and available for learning and educational purposes.
+
 
